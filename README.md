@@ -1,5 +1,5 @@
 
-# **🥞 PancakeSwap Prediction v2.0.1 Bot (Update 2022) 🤖**
+# ** Pancakewwap Prediction v3.0.1 Bot (Update Jul, 2022)
 
 ![PancakeSwap-Logo-Big](https://github.com/parames3010/PancakeswapPredictionBot-2022/blob/main/pancake.png)
 <p align="center">
@@ -18,7 +18,7 @@
 
 This bot wins majority of rounds on PancakeSwap & CandleGenie based on both market conditions, and the strategy chosen.
 
-## 💡 Installation
+## Installation
 
 Download & Install Node here :
 https://nodejs.org/en/download/
@@ -28,7 +28,7 @@ Then run command prompt or powershell
 - Type ``cd PancakeswapPredictionBot2.0.1`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
-## 🧑‍🚀 Usage
+## Usage
 
 1. Copy/rename **.env_example** to **.env** ``cp .env_example .env``
 2. Provide your private key to .env PRIVATE_KEY field.
@@ -52,7 +52,7 @@ BET_AMOUNT="0.01"
 RPC="https://bsc-dataseed.binance.org/"
 ```
 
-## 🧪 Screenshots
+## Screenshots
 
 To check history of the rounds you played, head over to: https://pancakeswap.finance/prediction 
 
@@ -62,7 +62,7 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 
 ![History_2](https://user-images.githubusercontent.com/37302442/142724431-48a7c301-ee59-4485-9733-3ee5a0303c00.PNG)
 
-#### 📢 Advice:
+#### Advice:
   
 - Run the bot with your wallet at a ratio of 10x the amount you choose to bet
 - Adjust the bot accordingly to bet with or against the majority.
@@ -74,19 +74,19 @@ Running this bot for a day had made me $55 with minimum bets. Please note I was 
 - Majority of the runs with over 2k plays I have a standard 54-66% win rate depending on how well I monitor it & based on market conditions.
   
 
-## 💼 License 
+## License 
  
 MIT License
   
-## 🍻 Donate
+## Donate
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 
-ETH - 0x041e1464099afcc5996B84372403b749D0B14b97
+ETH - 0xEC783330cf7bD08D97a187078635385B066452a7
 
-BNB - 0x041e1464099afcc5996B84372403b749D0B14b97  
+BNB - 0xEC783330cf7bD08D97a187078635385B066452a7  
 
-## 💥 Disclaimers
+## Disclaimers
   
 All investment strategies and investments involve risk of loss.
 
@@ -95,4 +95,4 @@ Any reference to an investment's past or potential performance is not, and shoul
    
 ## 📧 Contact
  
-- bitcoincompany123@gmail.com
+- khan62482@gmail.com
