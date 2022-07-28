@@ -1,5 +1,5 @@
 
-# ** Pancakewwap Prediction v3.0.1 Bot (Update Jul, 2022)
+# ** Pancakewwap Prediction v3.0.1 Bot (Jul, 2022 update)
 
 ![PancakeSwap-Logo-Big](https://github.com/parames3010/PancakeswapPredictionBot-2022/blob/main/pancake.png)
 <p align="center">
