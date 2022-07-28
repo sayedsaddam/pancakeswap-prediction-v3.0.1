@@ -27,7 +27,7 @@ const GLOBAL_CONFIG = {
 };
 
 clear();
-console.log(green("PancakePredictionV2 Bot-Winner"));
+console.log(green("PancakeSwapPredictionV3.0.1 Bot winner."));
 
 if (!GLOBAL_CONFIG.PRIVATE_KEY) {
   console.log(
