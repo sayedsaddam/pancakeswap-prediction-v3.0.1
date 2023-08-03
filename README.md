@@ -1,16 +1,16 @@
 
-# ** Pancakeswap Prediction v3.0.1 Bot (Jul, 2022 update)
+# ** Pancakeswap Prediction v3.0.1 Bot (Jul, 2023 update)
 
 ![PancakeSwap-Logo-Big](https://github.com/parames3010/PancakeswapPredictionBot-2022/blob/main/pancake.png)
 <p align="center">
-  <a href="https://github.com/parames3010/PancakeswapPredictionBot-2022/releases">
+  <a href="https://github.com/parames3010/PancakeswapPredictionBot-2023/releases">
     <img alt="GitHub all releases" src="https://img.shields.io/github/followers/parames3010?style=social">
   </a>
-  <a href="https://github.com/parames3010/PancakeswapPredictionBot-2022">
+  <a href="https://github.com/parames3010/PancakeswapPredictionBot-2023">
     <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/parames3010/PancakeswapPredictionBot-2022?style=social">
   </a>
-   <a href="https://github.com/parames3010/PancakeswapPredictionBot-2022">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/parames3010/PancakeswapPredictionBot-2022?style=social">
+   <a href="https://github.com/parames3010/PancakeswapPredictionBot-2023">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/parames3010/PancakeswapPredictionBot-2023?style=social">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=PancakeSwap">
     <img src="https://img.shields.io/twitter/follow/PancakeSwap?style=social" alt="Follow @PancakeSwap" />
